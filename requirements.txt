@@ -1,2 +1,4 @@
 tensorflow
 transformers
+torch
+scikit-learn
